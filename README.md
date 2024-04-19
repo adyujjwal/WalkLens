@@ -28,12 +28,12 @@ Integrate the Vuforia database with the Unity project.
 Build the Unity project to generate the APK file.
 Install the APK file on compatible devices to experience the augmented reality walkthrough and support solution.
 ```
-##Usage
+## Usage
 To initiate the walkthrough experience, scan the QR codes associated with target images using the Walkens application.
 Embedded videos will play upon successful recognition of the target images.
 For support, scan QR codes with a regular camera to be redirected to the support page where users can create support tickets.
 
-##Contributing
+## Contributing
 Contributions to Walkens are welcome! If you'd like to contribute:
 - Fork the repository.
 - Create a new branch (git checkout -b feature/improvement).
@@ -42,7 +42,7 @@ Contributions to Walkens are welcome! If you'd like to contribute:
 - Push to the branch (git push origin feature/improvement).
 - Create a new Pull Request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Feel free to adjust any part of the README to better fit your project or preferences!
